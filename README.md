@@ -2,4 +2,4 @@
 
 This is my first repo using git-bash
 <br>
-Author - Tanjil 
+Author - Tanjil Hussain
